@@ -1,5 +1,5 @@
 # CRM System
-C# Customer Relationship System<br/><br/>
+Customer Relationship System that provides an interface to store, update, and display customers' data <br/><br/>
 
 **Included with the code:**
 --
