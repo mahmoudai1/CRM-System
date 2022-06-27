@@ -1,0 +1,70 @@
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\System Project.exe.config
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\System Project.exe
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\System Project.pdb
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System Project.csprojAssemblyReference.cache
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.Properties.Resources.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System Project.csproj.GenerateResource.cache
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System Project.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System Project.exe
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System Project.pdb
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\MySql.Data.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\Google.Protobuf.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\Zstandard.Net.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\Renci.SshNet.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\System.Buffers.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\System.Memory.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\MySql.Data.xml
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System Project.exe.config
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System Project.csproj.CopyComplete
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.Register.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.Login.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\bin\Debug\EasyEncryption.dll
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.StartPage.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.Settings.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.main.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.AddCustomer.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.SearchCustomer.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.EditCustomer.resources
+C:\Users\mahmoud\source\repos\System Project\System Project\obj\Debug\System_Project.SpecificSearch.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\System Project.exe.config
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\System Project.exe
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\System Project.pdb
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\EasyEncryption.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\MySql.Data.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\Google.Protobuf.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\Zstandard.Net.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\BouncyCastle.Crypto.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\Ubiety.Dns.Core.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\Renci.SshNet.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\System.Buffers.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\K4os.Compression.LZ4.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\K4os.Hash.xxHash.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\System.Memory.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\System.Numerics.Vectors.dll
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\bin\Debug\MySql.Data.xml
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System Project.csprojAssemblyReference.cache
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System Project.exe.config
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.AddCustomer.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.EditCustomer.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.main.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.Login.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.Properties.Resources.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.Register.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.SearchCustomer.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.Settings.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.SpecificSearch.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System_Project.StartPage.resources
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System Project.csproj.GenerateResource.cache
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System Project.csproj.CoreCompileInputs.cache
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System Project.csproj.CopyComplete
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System Project.exe
+Z:\Semester 4\CS214 System Analysis and Design\CS214 Projects\DELIVERED\Oriental Weavers System Part 2\Code\System Project\System Project\obj\Debug\System Project.pdb
