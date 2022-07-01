@@ -1,5 +1,5 @@
 # CRM System
-Customer Relationship System that provides an interface to store, update, and display customers' data. <br/><br/>
+Unofficial Customer Relationship System for a company that provides an interface to store, update, and display customers' data. <br/><br/>
 
 **Included with the code:**
 --
